@@ -7,9 +7,9 @@
 <?import javafx.scene.layout.*?>
 
 <?import javafx.scene.text.Font?>
-<AnchorPane xmlns="http://javafx.com/javafx"
-            xmlns:fx="http://javafx.com/fxml"
-            fx:controller="br.michelstech.financeiro.fxml.CadastroUsuario"
+<AnchorPane xmlns="http://javafx.com/javafx/8"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="br.michelstech.financeiro.presentation.controllers.UsuarioController"
             prefHeight="400.0" prefWidth="600.0">
     <children>
         <AnchorPane layoutX="14.0" layoutY="14.0" prefHeight="121.0" prefWidth="401.0" style="-fx-background-color: #68D2E8; -fx-background-radius: 10;">
